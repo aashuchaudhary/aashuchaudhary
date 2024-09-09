@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  I'm a passionate software engineer with a broad range of expertise in various domains, including full-stack web development, system architecture, and emerging technologies like AI and Machine Learning. My journey in tech has equipped me with a strong foundation in multiple programming languages, frameworks, and tools, making me a versatile and resourceful engineer.
+  I'm a passionate software engineer with a broad range of expertise in various domains, including Backend development with golang, system architecture, and emerging technologies like AI and Machine Learning. My journey in tech has equipped me with a strong foundation in multiple programming languages, frameworks, and tools, making me a versatile and resourceful engineer.
 </p>
 <!-- Social Media Icons -->
 <p align="center">
