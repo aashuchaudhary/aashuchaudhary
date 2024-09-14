@@ -47,6 +47,10 @@
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFAA00.svg?style=flat&logo=huggingface&logoColor=white" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-%2300A3E0.svg?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Gemini-%237B42F6.svg?style=flat&logo=gemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Generative%20AI-%2300FF7F.svg?style=flat&logo=ai&logoColor=white" alt="Generative AI" />
 </p>
 
 <p align="center">
@@ -82,6 +86,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-%230060A1.svg?style=flat&logo=ai&logoColor=white" alt="AI" />
+   <img src="https://img.shields.io/badge/Artificial%20Intelligence-%230060A1.svg?style=flat&logo=ai&logoColor=white" alt="Generative-AI" />
   <img src="https://img.shields.io/badge/Machine%20Learning-%230098D1.svg?style=flat&logo=ml&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Data%20Science-%231359AA.svg?style=flat&logo=datascience&logoColor=white" alt="Data Science" />
 </p>
